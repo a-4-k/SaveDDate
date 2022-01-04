@@ -201,7 +201,7 @@ p {
     vertical-align: middle;
 }
 
-@media (min-height:700px) {
+@media (min-height:600px) {
     .falling-leaves {
         width: 300px;
         height: 400px;
